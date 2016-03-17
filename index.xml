@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swarm Automation Group</title>
-    <link>http://mysite.com/</link>
+    <link>http://swarmautomation.github.io/</link>
     <description>Recent content on Swarm Automation Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Mar 2016 01:51:35 -0400</lastBuildDate>
-    <atom:link href="http://mysite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://swarmautomation.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://mysite.com/projects/</link>
+      <link>http://swarmautomation.github.io/projects/</link>
       <pubDate>Thu, 17 Mar 2016 01:51:35 -0400</pubDate>
       
-      <guid>http://mysite.com/projects/</guid>
+      <guid>http://swarmautomation.github.io/projects/</guid>
       <description>
 
 &lt;h1 id=&#34;projects:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Projects&lt;/h1&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>home</title>
-      <link>http://mysite.com/page/home/</link>
+      <link>http://swarmautomation.github.io/page/home/</link>
       <pubDate>Thu, 17 Mar 2016 01:19:21 -0400</pubDate>
       
-      <guid>http://mysite.com/page/home/</guid>
+      <guid>http://swarmautomation.github.io/page/home/</guid>
       <description>&lt;p&gt;#Test&lt;/p&gt;
 </description>
     </item>
