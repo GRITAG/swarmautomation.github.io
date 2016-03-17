@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Swarm Automation Group</title>
+    <link>http://mysite.com/projects/</link>
+    <description>Recent content in Projects on Swarm Automation Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2016 01:51:35 -0400</lastBuildDate>
+    <atom:link href="http://mysite.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://mysite.com/projects/</link>
+      <pubDate>Thu, 17 Mar 2016 01:51:35 -0400</pubDate>
+      
+      <guid>http://mysite.com/projects/</guid>
+      <description>
+
+&lt;h1 id=&#34;projects:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Projects&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
