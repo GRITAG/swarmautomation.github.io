@@ -1,0 +1,45 @@
+baseurl = "http://mysite.com/"
+languageCode = "en-us"
+title = "Swarm Automation Group"
+theme = "rocktopus"
+GoogleAnalytics = "abcde"
+paginate = 4
+MetaDataFormat = "toml"
+[permalinks]
+    post = "/:year/:month/:title/"
+[taxonomies]
+    tags = "tags"
+    series = "series"
+[author]
+    name = "Aaron 'F1tZy' Van Prooyen"
+[params]
+	# supports either dark or light color scheme
+	colorscheme = "light"
+    # text for the header section
+    blogHeader = "<span style=\"font-size: 36px; \"><b>Hive</b></span>"
+    tagline = " Automation Group"
+    # the theme assumes this will be in your static/img directory
+    headerimg = "City-Under-Heat.jpg"
+    # used for the contact page (if you use it)
+    contactEmail = "me@mysite.com"
+    contactTwitter = "me"
+[menu]
+    # Menu for the nav bar.
+    # Ideal count is 3 items, see demo site for an example
+    [[menu.nav]]
+    identifier = "projects"
+    name       = "projects"
+    url        = "/projects"
+    weight     = 0
+
+    [[menu.nav]]
+    identifier = "code"
+    name       = "code"
+    url        = "https://github.com/SwarmAutomation"
+    weight     = 2
+
+    [[menu.nav]]
+    identifier = "about"
+    name       = "about"
+    url        = "/about"
+    weight     = 1
